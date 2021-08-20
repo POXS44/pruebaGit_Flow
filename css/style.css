@@ -14,3 +14,9 @@ p{
     color: red;
     background-color: blue;
 }
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2em;
+    color: chocolate;
+    background-color: cornflowerblue;
+}
